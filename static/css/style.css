@@ -105,19 +105,19 @@ p {
 
 .btn-style-1,
 .btn-style-2,
-.text-style-2:active {
+.text-style-2:hover {
   cursor: pointer;
 }
 
-.btn-style-1:active {
+.btn-style-1:hover {
   background-color: hsla(245, 75%, 52%, 0.75);
 }
 
-.btn-style-2:active {
+.btn-style-2:hover {
   color: hsl(223, 47%, 23%);
 }
 
-.text-style-2:active {
+.text-style-2:hover {
   color: hsla(245, 75%, 52%, 0.75);
 }
 
